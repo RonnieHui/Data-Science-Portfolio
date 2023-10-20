@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-This repository describes the portfolio tasks of course unit COMP6200 in S2 2021 at Macquarie University. 
+This repository describes the portfolio tasks for the course unit COMP6200 in S2 2021 at Macquarie University. 
 
 ## About Portfolio 1
 The goal of portfolio 1 is to perform some exploration and analysis on data of cyclying activities that include GPS location data as well as some measurements related to cycling performace like heart rate and power.
