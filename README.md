@@ -34,5 +34,5 @@ Major Project: Facial Expression Recognition Competition on Kaggle
   You'll be predicting the facial expressions from a set of images of faces. This is the PRIVATE TEST SET.  
   *Place: 32/53*
 
-Task 2: Penguin species classification
+Task 2: Penguin species classification  
 Task 3: Text classification
