@@ -4,15 +4,15 @@ This repository contains all data science projects and portfolio.
 
 
 ## COMP6200_Data Analysis
-Portfolio 1: Analysis of Cycling Data  
-Portfolio 2: Sport Vouchers Program Analysis  
-Portfolio 3: Mobile Customer Churn  
+#### Portfolio 1: Analysis of Cycling Data  
+#### Portfolio 2: Sport Vouchers Program Analysis  
+#### Portfolio 3: Mobile Customer Churn  
 
 ## COMP6200_Group Project
 Analysis of Opal Users’ Transport Patterns in NSW and Exploring Predictive Demographic Variables
 
 ## COMP8220_Machine Learning
-Major Project: Facial Expression Recognition Competition on Kaggle  
+#### Major Project: Facial Expression Recognition Competition on Kaggle 
 
   **1. Facial Expression Recognition (OOD)**  
   https://www.kaggle.com/competitions/facial-expression-recognition-ood  
@@ -26,9 +26,12 @@ Major Project: Facial Expression Recognition Competition on Kaggle
   **4. Facial Expression Recognition: PRIVATE TEST**  
   https://www.kaggle.com/competitions/facial-expression-recognition-indom-private  
 
-Task 2: Penguin species classification  
-Task 3: Text classification
+#### Task 2: Penguin species classification  
+#### Task 3: Text classification
 
 ## COMP8210_Big Data Technologies
-Data Reporting: Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and visualize findings in Data Studio
-Tweets Analysis: Analyse 10000 tweets using python and Neo4j
+**1. Data Reporting:**   
+Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and visualize findings in Data Studio  
+
+**2. Tweets Analysis:**   
+Analyse 10000 tweets using python and Neo4j
