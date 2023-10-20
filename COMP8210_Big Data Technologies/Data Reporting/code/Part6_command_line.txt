@@ -1,0 +1,4 @@
+bq extract --destination_format CSV \
+--print_header=true \
+propane-shell-363803:ecommerce.avg_quantity_per_order \
+gs://us-central1-ecommerce-a595d264-bucket/avg_quantity_per_order_result.csv
