@@ -3,7 +3,7 @@
 This repository contains all data science projects and portfolio.   
 
 **Skills:**  
-Python . Jupyter Notebook . SQL . BigQuery . Neo4j  . Git . GitHub
+Python . Jupyter Notebook . SQL . BigQuery . Neo4j  . Git . GitHub  
 Data Analytics . Data Curation . Data Visualization . Machine Learning Model  
 
 
