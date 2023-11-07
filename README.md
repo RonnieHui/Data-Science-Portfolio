@@ -1,9 +1,9 @@
 # Data-Science-Portfolio
 
-This repository contains all data science projects and portfolio.   
+This repository contains my works on data science projects from my academics.   
 
 **Skills:**  
-Python . Jupyter Notebook . SQL . BigQuery . Neo4j  . Git . GitHub  
+Python . Jupyter Notebook . SQL . GCP . BigQuery . Data Studio . Neo4j  . Git . GitHub  
 Data Analytics . Data Curation . Data Visualization . Machine Learning Model  
 
 
