@@ -1,4 +1,4 @@
-## Data Science Group Project (Group 100)
+## Data Science Group Project
 # Analysing Opal Users’ Transport Patterns in NSW and Exploring Predictive Demographic Variables
 
 ### Introduction:
