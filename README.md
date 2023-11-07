@@ -15,6 +15,15 @@ Data Analytics . Data Curation . Data Visualization . Machine Learning Model
 ## COMP6200_Group Project
 Analysis of Opal Users’ Transport Patterns in NSW and Exploring Predictive Demographic Variables
 
+
+## COMP8210_Big Data Technologies
+**1. Data Reporting:**   
+Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and visualize findings in Data Studio  
+
+**2. Tweets Analysis:**   
+Analyse 10000 tweets using python and Neo4j
+
+
 ## COMP8220_Machine Learning
 #### Major Project: Facial Expression Recognition Competition on Kaggle 
 
@@ -33,9 +42,3 @@ Analysis of Opal Users’ Transport Patterns in NSW and Exploring Predictive Dem
 #### Task 2: Penguin species classification  
 #### Task 3: Text classification
 
-## COMP8210_Big Data Technologies
-**1. Data Reporting:**   
-Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and visualize findings in Data Studio  
-
-**2. Tweets Analysis:**   
-Analyse 10000 tweets using python and Neo4j
