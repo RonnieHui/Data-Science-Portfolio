@@ -1,4 +1,4 @@
-# COMP6200_Data Analysis
+# Data Analysis
 
 This repository describes the data analysis tasks for the course unit COMP6200 in S2 2021 at Macquarie University. 
 
