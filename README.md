@@ -7,16 +7,16 @@ Python . Jupyter Notebook . SQL . GCP . BigQuery . Data Studio . Neo4j  . Git . 
 Data Analytics . Data Curation . Data Visualization . Machine Learning Model  
 
 
-## COMP6200_Data Analysis
+## Data Analysis
 #### Portfolio 1: Analysis of Cycling Data  
 #### Portfolio 2: Sport Vouchers Program Analysis  
 #### Portfolio 3: Mobile Customer Churn  
 
-## COMP6200_Group Project
+## Group Project
 Analysis of Opal Users’ Transport Patterns in NSW and Exploring Predictive Demographic Variables
 
 
-## COMP8210_Big Data Technologies
+## Big Data Technologies
 **1. Data Reporting:**   
 Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and visualize findings in Data Studio  
 
@@ -24,7 +24,7 @@ Analyse ecommerce dataset using BigQuery, Schedule queries in ETL pipeline and v
 Analyse 10000 tweets using python and Neo4j
 
 
-## COMP8220_Machine Learning
+## Machine Learning
 #### Major Project: Facial Expression Recognition Competition on Kaggle 
 
   **1. Facial Expression Recognition (OOD)**  
